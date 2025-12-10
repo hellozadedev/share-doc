@@ -113,16 +113,6 @@ Smart move - eliminates the free user bleed. Here's your complete analysis.
 
 ---
 
-## My Recommendation
-
-**Phase 1 (0-100 customers):** Run without dedicated developer. You're profitable at 34 customers.
-
-**Phase 2 (100-300 customers):** Hire part-time or contractor. Validate demand.
-
-**Phase 3 (300+ customers):** Bring on full-time developer. You'll hit breakeven around 370.
-
----
-
 **Bottom Line**
 
 | | Without Developer | With Developer |
