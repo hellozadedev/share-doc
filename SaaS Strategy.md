@@ -39,7 +39,7 @@
 | Category | Cost |
 |----------|------|
 | Developer (2 devs × 2 months) | $6,000 |
-| Designer/Graphics | $1,500 |
+| Designer / FrontEnd Dev | $1,500 |
 | Infrastructure (server, AI, database) | $500 |
 | **Total** | **$8,000** |
 
@@ -47,7 +47,7 @@
 | Category | Cost |
 |----------|------|
 | Developer (1 dev + Claude Code) | $1,500 |
-| Designer/Graphics | $1,500 |
+| Designer / FrontEnd Dev | $1,500 |
 | Claude AI subscription | $100 |
 | Server/Database | $50 |
 | **Total (1 month)** | **~$3,500** |
@@ -88,7 +88,7 @@
 | Role | Count | Focus |
 |------|-------|-------|
 | Developers | 2 | Backend, integrations, AI implementation |
-| Designer | 1 | UI/UX, graphics, branding |
+| FrontEnd Dev | 1 | UI/UX, graphics, branding |
 | Project Manager | 1 | Coordination, planning |
 
 ### Target Operating Model: 2 MVPs/Month
