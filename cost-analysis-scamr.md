@@ -1,7 +1,3 @@
-Smart move - eliminates the free user bleed. Here's your complete analysis.
-
----
-
 ## Cost Structure
 
 **Fixed Monthly Costs**
