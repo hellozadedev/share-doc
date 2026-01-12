@@ -13,9 +13,10 @@
 - Status: Pre-launch (MVP complete)
 
 **Closio**
-- SaaS CRM designed for small businesses
-- Features: Contact management, email marketing, sales tracking
-- Status: In development (almost done.)
+- AI-powered customer support assistant for businesses
+- Features: Instant answers to customer questions, handles common inquiries, lead collection
+- Value prop: Frees up support teams to focus on complex issues
+- Status: In development (almost done)
 
 **Pipeline**
 - Additional SaaS products planned (names TBD)
